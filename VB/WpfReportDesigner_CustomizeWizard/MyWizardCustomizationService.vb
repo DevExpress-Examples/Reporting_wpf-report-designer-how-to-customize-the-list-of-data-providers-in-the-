@@ -1,4 +1,4 @@
-﻿Imports System.Collections.Generic
+Imports System.Collections.Generic
 Imports DevExpress.DataAccess.Native.Sql.ConnectionStrategies
 Imports DevExpress.DataAccess.Wizard.Model
 Imports DevExpress.DataAccess.Wizard.Presenters

@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using DevExpress.DataAccess.Native.Sql.ConnectionStrategies;
 using DevExpress.DataAccess.Wizard.Model;
 using DevExpress.DataAccess.Wizard.Presenters;
